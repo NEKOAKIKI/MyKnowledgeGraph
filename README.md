@@ -15,3 +15,13 @@ Put your data files in `data` and run:
 Run:
 ```streamlit run \qa_web.py```
 Then drag files to upload.
+
+```
+graph TD
+A[文档读取] --> B[文本预处理]
+B --> C[实体识别]
+C --> D[关系抽取]
+D --> E[实体定义生成]
+E --> F[Neo4j图谱构建]
+
+```
