@@ -1,5 +1,5 @@
 # MyKnowledgeGraph
-智能数据工程作业1 - 构建知识图谱与问答系统
+Intelligent Data Engineer 1 - Build Knowledge Graph and Q&A System
 ## QuickStart
 ```
 cd MyKnowledgeGraph-main
